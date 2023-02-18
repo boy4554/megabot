@@ -6,7 +6,7 @@ from telegram.ext.filters import Text
 from queue import Queue
 
 # Definir as constantes do bot
-TOKEN = "TELEGRAM_TOKEN"
+TOKEN = "5533392014:AAFqC8Pzliv_2gFzfOAD2nR3FLvNfD4rYmk"
 
 # Definir os estados da conversa
 FIRST, SECOND, THIRD, FOURTH = range(4)
